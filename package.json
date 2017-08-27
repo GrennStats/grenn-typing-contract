@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Contract between backend and frontend",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "start": "tsc",
     "prepublishOnly": "npm start"
