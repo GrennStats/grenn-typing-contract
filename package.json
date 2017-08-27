@@ -1,0 +1,23 @@
+{
+  "name": "@grenn/contract",
+  "version": "1.0.0",
+  "description": "Contract between backend and frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc",
+    "prepublishOnly": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrennStats/grenn-typing-contract.git"
+  },
+  "author": "Karl Merkli <karlmerkli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GrennStats/grenn-typing-contract/issues"
+  },
+  "homepage": "https://github.com/GrennStats/grenn-typing-contract#readme",
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}
