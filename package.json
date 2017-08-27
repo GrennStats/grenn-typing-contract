@@ -2,7 +2,8 @@
   "name": "@grenn/contract",
   "version": "1.0.3",
   "description": "Contract between backend and frontend",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "private": false,
   "scripts": {
     "start": "tsc",
